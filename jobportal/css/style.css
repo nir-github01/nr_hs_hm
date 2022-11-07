@@ -9,7 +9,9 @@ body{
     left: 40%;
     margin: auto;
 }
-/* h1{
+h1{
+    background-color: gray;
+    color:lime;
+    border:solid 2px red;
     text-align: center;
-    top: 20%;
-} */
+}
