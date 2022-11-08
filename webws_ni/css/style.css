@@ -1,3 +1,33 @@
 body{
     background-color: blue;
 }
+.head_box{
+    margin-bottom: 2%;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav_box{
+    width: 15%;
+}
+/* .section{
+    width: 80%;
+} */
+.container-fluid{
+    width: 84%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+   justify-content: space-between;
+}
+.profile_img{
+width: 4%;
+}
+.candidatedetail{
+    width: 90%;
+    padding: 2%;
+    margin-top: 1rem;
+}
