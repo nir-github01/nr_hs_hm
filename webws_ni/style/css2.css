@@ -60,6 +60,10 @@ html {
   padding: 15px;
 }
 
+.image{
+  width: 100px;
+  height: 100px;
+}
 /* For desktop: */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -90,7 +94,6 @@ html {
     transition: 0.4s;
   }
   .dropdown-menu ul {
-    visibility:hidden;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -107,6 +110,10 @@ html {
     list-style-type: none;
     margin: 0;
     padding: 0;
+  }
+  .image{
+    width: 100px;
+    height: 100px;
   }
   
   .menu li {
